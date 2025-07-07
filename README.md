@@ -6,7 +6,7 @@ config.json dan prefixi değiştirmeyi unutma !
 npm install
 ```
 
-Botu Başlat: Her şey hazır! Botu başlatmak için terminale şunu yaz:
+Botu başlatmak için terminale şunu yaz:
 
 ```bash
 npm start
