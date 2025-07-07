@@ -18,4 +18,7 @@ veya
 node index.js
 ```
 
+```bash
+Bu Altyapı da Message Intent Açılması Zorunludur ! Aksi Takdirde Komutlar Çalışmaz.
+```
 **Bu Altyapı Neva Development Sunucusuna Aittir. Çalma Veya Kopyalama Durumunda İşlem Başlatılır.**
